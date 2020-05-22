@@ -41,6 +41,8 @@ pyxdg==0.25
 retry-decorator==1.1.0
 rsa==4.0
 scandir==1.10.0
+scikit-learn==0.20.4
+scipy==1.2.3
 SecretStorage==2.3.1
 six==1.14.0
 SocksiPy-branch==1.1
