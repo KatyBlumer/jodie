@@ -11,6 +11,7 @@ duplicity==0.7.17
 enum34==1.1.6
 fasteners==0.15
 funcsigs==1.0.2
+future==0.18.2
 gcs-oauth2-boto-plugin==2.5
 google-apitools==0.5.30
 google-reauth==0.1.0
