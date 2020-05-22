@@ -103,3 +103,6 @@ venv_j/
 
 # mypy
 .mypy_cache/
+
+
+data/
