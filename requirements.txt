@@ -49,5 +49,6 @@ scipy==1.2.3
 SecretStorage==2.3.1
 six==1.15.0
 SocksiPy-branch==1.1
+torch==1.4.0
 tqdm==4.46.0
 zipp==1.1.1
